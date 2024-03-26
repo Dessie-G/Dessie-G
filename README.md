@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 An aspiring data analyst
 ------------------------
 
-With a solid foundation in business principles from Mont Rose College of Business and Sciences, I've developed a keen analytical mindset and curiosity for data exploration. Following my passion, I am now seeking to transition my career into the data field. I completed an intensive data skills bootcamp with JustIT, learning various technical tools, such as Excel, Tableau, and SQL, amongst others. I have completed several data anaalysis and visualisation projects in Excel, Tableau, Power BI, and SQL. 
+With a solid foundation in business principles from Mont Rose College of Business and Sciences, I've developed a keen analytical mindset and curiosity for data exploration. Following my passion, I am now seeking to transition my career into the data field. I completed an intensive data skills bootcamp with JustIT, learning various technical tools, such as Excel, Tableau, and SQL, amongst others. I have completed several data analysis and visualisation projects in Excel, Tableau, Power BI, and SQL. 
 My professional experience includes various customer-facing roles. I worked 3 years as an accounting assistant, 3 years as a sales assistant in fashion retail. In the past 6 years, I worked as a financial customer service assistant at Lloyds Bank, where my problem-solving, organisational, and analytical skills led to several well-deserved promotions, showcasing my dedication and proficiency in delivering results. I am currently looking to become established in a role as an apprentice or junior data analyst, where I can further develop my skills to advance as a data professional.
 
 *   🌍  I'm based in London
