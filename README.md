@@ -12,7 +12,7 @@ My professional experience includes various customer-facing roles. I worked 3 ye
 *   🧠  I'm learning Python
 *   *   🌍  I'm based in London
 *   ✉️  You can contact me at [dessie.georgieva@gmail.com](mailto:dessie.georgieva@gmail.com)
-*   🚀  I'm currently working on [developing my website](http://sites.google.com/view/desislavageorgieva/home)
+*   🚀  I'm currently working on a data analysis priject with Excel and Tableau
 *   🤝  I'm open to collaborating on data analytics projects with SQL and Power BI
 *   ⚡  I enjoy crafts like creating unique keepsake boxes, jewellery, and small decorations
   ### Skills 
