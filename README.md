@@ -2,7 +2,7 @@
 - 👀 I’m an aspiring data analyst
 - 🌱 I’m currently focused on learning Python 
 - 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me https://www.linkedin.com/in/dessie-georgieva?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 How to reach me www.linkedin.com/in/dessie-georgieva
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy crafts like creating unique keepsake boxes, jewellery, and small decorations
 
