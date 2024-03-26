@@ -10,8 +10,12 @@ My professional experience includes various customer-facing roles. I worked 3 ye
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [dessie.georgieva@gmail.com](mailto:dessie.georgieva@gmail.com)
 *   🧠  I'm learning Python
+*   *   🌍  I'm based in London
+*   ✉️  You can contact me at [dessie.georgieva@gmail.com](mailto:dessie.georgieva@gmail.com)
+*   🚀  I'm currently working on [developing my website](http://sites.google.com/view/desislavageorgieva/home)
 *   🤝  I'm open to collaborating on data analytics projects with SQL and Power BI
-*   ⚡  I enjoy crafts like creating unique keepsake boxes, jewellery, and small decorations### Skills 
+*   ⚡  I enjoy crafts like creating unique keepsake boxes, jewellery, and small decorations
+  ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://tableau.com/" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;                    
