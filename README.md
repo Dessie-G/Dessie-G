@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Desislava
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Desislava
 =================================================================================================================================
 
 I'm an aspiring data analyst.
@@ -9,11 +10,10 @@ I am currently looking to become established in a role as an apprentice or junio
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [dessie.georgieva@gmail.com](mailto:dessie.georgieva@gmail.com)
-*   🧠  I'm learning Python
+*   🧠  I'm learning Python and SQL
 *   *   🌍  I'm based in London
 *   ✉️  You can contact me at [dessie.georgieva@gmail.com](mailto:dessie.georgieva@gmail.com)
-*   🚀  I'm currently working on a data analysis priject with Excel and Tableau
-*   🤝  I'm open to collaborating on data analytics projects with SQL and Power BI
+*   🤝  I'm open to collaborating on data analytics projects with SQL, Excel, Power BI, Tableau
 *   ⚡  I enjoy crafts like creating unique keepsake boxes, jewellery, and small decorations
   ### Skills 
 <p align="left">
