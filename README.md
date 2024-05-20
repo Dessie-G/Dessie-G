@@ -6,7 +6,7 @@ I'm an aspiring data analyst.
 ------------------------
 
 With a solid foundation in business principles from Mont Rose College of Business and Sciences, I've developed a keen analytical mindset and curiosity for data exploration. Following my passion, I am now seeking to transition my career into the data field. I completed an intensive data skills bootcamp with JustIT, learning various technical tools, such as Excel, Tableau, and SQL, amongst others. I have completed several data analysis and visualisation projects in Excel, Tableau, Power BI, and SQL. 
-I am currently looking to become established in a role as an apprentice or junior data analyst, where I can further develop my skills to advance as a data professional.
+I am currently looking to become established in a role as a data analyst, where I can further develop my skills to advance as a data professional.
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [dessie.georgieva@gmail.com](mailto:dessie.georgieva@gmail.com)
